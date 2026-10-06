@@ -1,0 +1,42 @@
+body {
+    background-color: #f4f6f9;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 1100px;
+}
+
+.page-title {
+    font-weight: 700;
+}
+
+.card {
+    border: none;
+    border-radius: 12px;
+    box-shadow: 0 3px 15px rgba(0, 0, 0, 0.08);
+}
+
+.table th {
+    white-space: nowrap;
+}
+
+.table td {
+    vertical-align: middle;
+}
+
+.btn {
+    border-radius: 7px;
+}
+
+.form-control {
+    border-radius: 7px;
+}
+
+.form-label {
+    font-weight: 600;
+}
+
+.badge {
+    font-size: 12px;
+}
